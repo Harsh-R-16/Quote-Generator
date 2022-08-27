@@ -1,4 +1,4 @@
-# Quote Generator React
+# Quote Generator
 
 ### Link: https://quote-generator-harsh.netlify.app/
 
